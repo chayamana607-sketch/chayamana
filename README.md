@@ -1,2 +1,0 @@
-# chayamana
-mcpas
